@@ -1,0 +1,3 @@
+Berikan Pendapat tentang perbedaan kelas abstrak dengan kelas enkapsulasi dari sisi data hiding ?
+Menurut saya, Data hiding yang terdapat pada kelas abstrak berada pada penyembunyian proses yang dilakukan oleh kelas itu sendiri jadi sebuah kelas dapat berjalan tanpa harus mengetahui detail prosesnya, hanya dapat mengetahui hasilnya saja. 
+data hiding pada kelas enkapsulasi terdapat pada akses kontrol yang di berikan kepada atribut maupun method yang ada di dalam kelas tersebut misal 'public', kita dapat menyembunyikan informasi dari suatu kelas sehingga anggota kelas tersebut tidak dapat di akses dari luar, caranya hanya dengan memberikan akses kontrol 'private' ketika mendeklarasikan atribut atau method.
